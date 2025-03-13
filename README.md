@@ -1,10 +1,10 @@
-Chatbot using NLP - AICTE Cycle-4
+**Chatbot using NLP - AICTE Cycle-4**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project is a Chatbot using Natural Language Processing (NLP), developed as part of the AICTE Internship Cycle-4. The chatbot is designed to understand and respond to user queries intelligently, utilizing advanced NLP techniques.
 
-🚀 Features
+**🚀 Features**
 
 Intent Recognition: Identifies user intent and provides appropriate responses.
 
@@ -16,7 +16,7 @@ Interactive Communication: Engaging and user-friendly responses.
 
 Scalability: Can be adapted for various applications.
 
-🏗️ Tech Stack
+**🏗️ Tech Stack**
 
 Programming Language: Python
 
@@ -28,28 +28,28 @@ Framework: Flask (if web-based)
 
 Dataset: Custom-built or open-source dataset
 
-🔧 Installation & Setup
+**🔧 Installation & Setup**
 
 To set up and run the chatbot, follow these steps:
 
-Clone the Repository
+**Clone the Repository**
 
 git clone https://github.com/Priya-anandhan/Chatbot_using_NLP_AICTE_Cycle-4.git
 cd Chatbot_using_NLP_AICTE_Cycle-4
 
-Install Dependencies
+**Install Dependencies**
 
 pip install -r requirements.txt
 
-Run the Chatbot
+**Run the Chatbot**
 
 python chatbot.py
 
-Interact with the Chatbot
+**Interact with the Chatbot**
 
 Enter queries in the terminal or web interface (if implemented).
 
-📊 Dataset & Model Training
+**📊 Dataset & Model Training**
 
 The chatbot is trained on a dataset of predefined intents and responses.
 
@@ -57,7 +57,7 @@ Data preprocessing includes stopword removal, stemming, and lemmatization.
 
 A classification model is used to map user inputs to appropriate responses.
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
 Build an AI-powered chatbot using NLP.
 
@@ -65,22 +65,10 @@ Implement advanced text processing techniques.
 
 Ensure a scalable and adaptable chatbot framework.
 
-📜 AICTE Internship Report Submission
-
-This project is submitted under AICTE Internship Cycle-4.
-
-It demonstrates the application of Natural Language Processing (NLP).
-
-The repository contains all necessary files for evaluation.
-
-🤝 Contributors
-
-[Another Person's Name] - Developer
-
-📬 Contact
+**📬 Contact**
 
 For queries, reach out via GitHub Issues or email.
 
-📄 License
+**📄 License**
 
 This project is open-source and available under the MIT License.
