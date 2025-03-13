@@ -1,10 +1,10 @@
-Chatbot using NLP - AICTE Cycle-4
+**Chatbot using NLP - AICTE Cycle-4**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project is a Chatbot using Natural Language Processing (NLP), developed as part of the AICTE Internship Cycle-4. The chatbot is designed to understand and respond to user queries intelligently, leveraging machine learning techniques and NLP models.
 
-🚀 Features
+**🚀 Features**
 
 Intent Recognition: Uses NLP to understand user intent and provide relevant responses.
 
@@ -16,7 +16,7 @@ Customizable Responses: Easily modifiable responses based on use cases.
 
 Interactive User Interface: Engaging UI for seamless communication.
 
-🏗️ Tech Stack
+**🏗️ Tech Stack**
 
 Programming Language: Python
 
@@ -28,7 +28,7 @@ Web Framework: Flask (if applicable)
 
 Dataset: Custom-built or open-source dataset for training
 
-🔧 Installation & Setup
+**🔧 Installation & Setup**
 
 Follow these steps to set up and run the chatbot:
 
@@ -57,7 +57,7 @@ Text preprocessing techniques like tokenization, stemming, and lemmatization are
 
 The model is trained using classification algorithms to map inputs to appropriate responses.
 
-🎯 Project Goals
+**🎯 Project Goals**
 
 Develop an AI-driven chatbot that can effectively communicate with users.
 
@@ -65,7 +65,7 @@ Implement NLP techniques for improved understanding and response generation.
 
 Ensure the chatbot is scalable and adaptable for various applications.
 
-📜 AICTE Internship Report Submission
+**📜 AICTE Internship Report Submission**
 
 This project is submitted as part of AICTE Internship Cycle-4.
 
@@ -73,15 +73,15 @@ It demonstrates the practical application of Natural Language Processing (NLP) i
 
 The repository contains code, documentation, and necessary files for evaluation.
 
-🤝 Contributors
+**🤝 Contributors**
 
 Priya Anandhan - Developer
 
-📬 Contact
+**📬 Contact**
 
 For any queries, feel free to reach out via GitHub Issues or email.
 
-📄 License
+**📄 License**
 
 This project is open-source and available under the MIT License.
 
